@@ -4,8 +4,8 @@
 * Extrair campos específicos e seu valores de um arquivo XML;
 ### Detalhes
 * Identificar a quantidade de produtos na nota;
-* Identificar e Extrair as tags do Nome/Descrição de cada Produto, seu Valor e os valores do ICMS e do IPI da nota;
-* Imprimir estes campos no Console;
+* Identificar e Extrair das tags o Nome/Descrição de cada Produto, seu Valor e os valores do ICMS e do IPI da nota;
+* Imprimir estes campos formatados no Console;
 
 ## Biblioteca:
 * System.XML
